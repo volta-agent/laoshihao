@@ -1,0 +1,76 @@
+/* Gruvbox Dark theme for Laoshihao */
+:root {
+  --c-dark-primary: #282828;
+  --c-dark-secondary: #3c3836;
+  --c-dark-accent: #504945;
+  --c-med-purple: #b16286;
+  --c-text-primary: #ebdbb2;
+  --c-text-secondary: #a89984;
+  --c-success: #98971a;
+  --c-error: #cc241d;
+  --c-link: #458588;
+  --c-highlight: #d79921;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--c-dark-primary);
+  color: var(--c-text-primary);
+}
+
+#app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+h1, h2, h3 {
+  color: var(--c-text-primary);
+  border-bottom: 2px solid var(--c-med-purple);
+  padding-bottom: 10px;
+}
+
+a {
+  color: var(--c-link);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  background-color: var(--c-med-purple);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background-color: var(--c-dark-accent);
+}
+
+.card {
+  background-color: var(--c-dark-secondary);
+  border-radius: 8px;
+  padding: 20px;
+  margin: 15px 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.level-badge {
+  display: inline-block;
+  background-color: var(--c-success);
+  color: white;
+  padding: 3px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  margin-left: 10px;
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "hanzi": "你好",
+    "pinyin": "nǐ hǎo",
+    "english": "hello",
+    "pos": "interjection",
+    "hsk_level": 1,
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "hanzi": "谢谢",
+    "pinyin": "xiè xie",
+    "english": "thank you",
+    "pos": "verb",
+    "hsk_level": 1,
+    "tags": [
+      "politeness"
+    ]
+  },
+  {
+    "hanzi": "再见",
+    "pinyin": "zài jiàn",
+    "english": "goodbye",
+    "pos": "interjection",
+    "hsk_level": 1,
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "english": "I, me",
+    "pos": "pronoun",
+    "hsk_level": 1,
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "english": "you",
+    "pos": "pronoun",
+    "hsk_level": 1,
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "hanzi": "他",
+    "pinyin": "tā",
+    "english": "he, him",
+    "pos": "pronoun",
+    "hsk_level": 1,
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "hanzi": "她",
+    "pinyin": "tā",
+    "english": "she, her",
+    "pos": "pronoun",
+    "hsk_level": 1,
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "hanzi": "是",
+    "pinyin": "shì",
+    "english": "to be",
+    "pos": "verb",
+    "hsk_level": 1,
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "hanzi": "不",
+    "pinyin": "bù",
+    "english": "no, not",
+    "pos": "adverb",
+    "hsk_level": 1,
+    "tags": [
+      "negation"
+    ]
+  },
+  {
+    "hanzi": "在",
+    "pinyin": "zài",
+    "english": "at, in, on",
+    "pos": "preposition",
+    "hsk_level": 1,
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "english": "to have",
+    "pos": "verb",
+    "hsk_level": 1,
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "hanzi": "人",
+    "pinyin": "rén",
+    "english": "person, people",
+    "pos": "noun",
+    "hsk_level": 1,
+    "tags": [
+      "noun"
+    ]
+  },
+  {
+    "hanzi": "大",
+    "pinyin": "dà",
+    "english": "big, large",
+    "pos": "adjective",
+    "hsk_level": 1,
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "english": "small, little",
+    "pos": "adjective",
+    "hsk_level": 1,
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "hanzi": "多",
+    "pinyin": "duō",
+    "english": "many, much",
+    "pos": "adjective",
+    "hsk_level": 1,
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "english": "few, little",
+    "pos": "adjective",
+    "hsk_level": 1,
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "english": "good",
+    "pos": "adjective",
+    "hsk_level": 1,
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "hanzi": "一",
+    "pinyin": "yī",
+    "english": "one",
+    "pos": "numeral",
+    "hsk_level": 1,
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "hanzi": "二",
+    "pinyin": "èr",
+    "english": "two",
+    "pos": "numeral",
+    "hsk_level": 1,
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "sān",
+    "english": "three",
+    "pos": "numeral",
+    "hsk_level": 1,
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "hanzi": "个",
+    "pinyin": "gè",
+    "english": "general measure word",
+    "pos": "measure word",
+    "hsk_level": 1,
+    "tags": [
+      "measure"
+    ]
+  },
+  {
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "english": "this",
+    "pos": "pronoun",
+    "hsk_level": 1,
+    "tags": [
+      "demonstrative"
+    ]
+  },
+  {
+    "hanzi": "那",
+    "pinyin": "nà",
+    "english": "that",
+    "pos": "pronoun",
+    "hsk_level": 1,
+    "tags": [
+      "demonstrative"
+    ]
+  },
+  {
+    "hanzi": "什么",
+    "pinyin": "shén me",
+    "english": "what",
+    "pos": "pronoun",
+    "hsk_level": 1,
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "english": "who",
+    "pos": "pronoun",
+    "hsk_level": 1,
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "english": "question particle",
+    "pos": "particle",
+    "hsk_level": 1,
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "hanzi": "的",
+    "pinyin": "de",
+    "english": "possessive particle",
+    "pos": "particle",
+    "hsk_level": 1,
+    "tags": [
+      "grammar"
+    ]
+  },
+  {
+    "hanzi": "了",
+    "pinyin": "le",
+    "english": "perfective aspect particle",
+    "pos": "particle",
+    "hsk_level": 1,
+    "tags": [
+      "grammar"
+    ]
+  },
+  {
+    "hanzi": "和",
+    "pinyin": "hé",
+    "english": "and",
+    "pos": "conjunction",
+    "hsk_level": 1,
+    "tags": [
+      "conjunction"
+    ]
+  },
+  {
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "english": "very",
+    "pos": "adverb",
+    "hsk_level": 1,
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "hanzi": "也",
+    "pinyin": "yě",
+    "english": "also",
+    "pos": "adverb",
+    "hsk_level": 1,
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "english": "all",
+    "pos": "adverb",
+    "hsk_level": 1,
+    "tags": [
+      "adverb"
+    ]
+  },
+  {
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "english": "home, family",
+    "pos": "noun",
+    "hsk_level": 1,
+    "tags": [
+      "noun"
+    ]
+  },
+  {
+    "hanzi": "学校",
+    "pinyin": "xué xiào",
+    "english": "school",
+    "pos": "noun",
+    "hsk_level": 1,
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "hanzi": "学生",
+    "pinyin": "xué shēng",
+    "english": "student",
+    "pos": "noun",
+    "hsk_level": 1,
+    "tags": [
+      "person"
+    ]
+  },
+  {
+    "hanzi": "老师",
+    "pinyin": "lǎo shī",
+    "english": "teacher",
+    "pos": "noun",
+    "hsk_level": 1,
+    "tags": [
+      "person"
+    ]
+  },
+  {
+    "hanzi": "爸爸",
+    "pinyin": "bà ba",
+    "english": "father",
+    "pos": "noun",
+    "hsk_level": 1,
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "hanzi": "妈妈",
+    "pinyin": "mā ma",
+    "english": "mother",
+    "pos": "noun",
+    "hsk_level": 1,
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "hanzi": "朋友",
+    "pinyin": "péng you",
+    "english": "friend",
+    "pos": "noun",
+    "hsk_level": 1,
+    "tags": [
+      "person"
+    ]
+  },
+  {
+    "hanzi": "名字",
+    "pinyin": "míng zi",
+    "english": "name",
+    "pos": "noun",
+    "hsk_level": 1,
+    "tags": [
+      "general"
+    ]
+  }
+]

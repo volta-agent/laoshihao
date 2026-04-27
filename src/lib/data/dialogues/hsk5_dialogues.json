@@ -1,0 +1,37 @@
+[
+  {
+    "id": "dialogue-5-1",
+    "title": "HSK 5 Dialogue Example",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "你好",
+        "english": "Hello",
+        "pinyin": "nǐ hǎo"
+      },
+      {
+        "speaker": "B",
+        "chinese": "你好",
+        "english": "Hello",
+        "pinyin": "nǐ hǎo"
+      },
+      {
+        "speaker": "A",
+        "chinese": "你学习汉语吗？",
+        "english": "Do you study Chinese?",
+        "pinyin": "nǐ xué xí hàn yǔ ma?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "是的，我学习汉语。",
+        "english": "Yes, I study Chinese.",
+        "pinyin": "shì de, wǒ xué xí hàn yǔ."
+      }
+    ],
+    "hsk_level": 5,
+    "tags": [
+      "greeting",
+      "basic"
+    ]
+  }
+]

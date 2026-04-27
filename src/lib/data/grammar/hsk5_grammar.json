@@ -1,0 +1,22 @@
+[
+  {
+    "id": "grammar-5-1",
+    "title": "HSK 5 Grammar Example",
+    "category": "Basic Structure",
+    "explanation": "Example grammar point for HSK 5",
+    "structure": "Subject + Verb + Object",
+    "examples": [
+      {
+        "chinese": "我学习汉语",
+        "pinyin": "wǒ xué xí hàn yǔ",
+        "english": "I study Chinese"
+      },
+      {
+        "chinese": "他喝咖啡",
+        "pinyin": "tā hē kā fēi",
+        "english": "He drinks coffee"
+      }
+    ],
+    "hsk_level": 5
+  }
+]
