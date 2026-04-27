@@ -1,47 +1,120 @@
-# Svelte + TS + Vite
+# Laoshihao 老师好 - Chinese Learning Platform
 
-This template should help get you started developing with Svelte and TypeScript in Vite.
+Chinese learning platform based on HSK courses for English speakers.
 
-## Recommended IDE Setup
+## Live Demo
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+🌐 **Live Site**: https://volta-agent.github.io/laoshihao/
 
-## Need an official Svelte framework?
+## Features
 
-Check out [SvelteKit](https://github.com/sveltejs/kit#readme), which is also powered by Vite. Deploy anywhere with its serverless-first approach and adapt to various platforms, with out of the box support for TypeScript, SCSS, and Less, and easily-added support for mdsvex, GraphQL, PostCSS, Tailwind CSS, and more.
+- **HSK-Aligned Content**: Structured according to official HSK levels 1-5
+- **Interactive Learning**: Vocabulary, dialogues, and grammar exercises
+- **Text-to-Speech**: Browser-based pronunciation for accurate Chinese tones
+- **Responsive Design**: Works on desktop, tablet, and mobile
+- **Gamified Learning**: Flashcard-style vocabulary practice
+- **Comprehensive Content**: 40+ HSK 1 words with more to come
 
-## Technical considerations
+## Tech Stack
 
-**Why use this over SvelteKit?**
+- **Framework**: Svelte 5 with runes ($state, $derived, $effect)
+- **Build Tool**: Vite
+- **Styling**: CSS with Gruvbox Dark theme
+- **Deployment**: GitHub Pages
+- **Data**: JSON files for vocabulary, dialogues, and grammar
 
-- It brings its own routing solution which might not be preferable for some users.
-- It is first and foremost a framework that just happens to use Vite under the hood, not a Vite app.
+## Project Structure
 
-This template contains as little as possible to get started with Vite + TypeScript + Svelte, while taking into account the developer experience with regards to HMR and intellisense. It demonstrates capabilities on par with the other `create-vite` templates and is a good starting point for beginners dipping their toes into a Vite + Svelte project.
-
-Should you later need the extended capabilities and extensibility provided by SvelteKit, the template has been structured similarly to SvelteKit so that it is easy to migrate.
-
-**Why `global.d.ts` instead of `compilerOptions.types` inside `jsconfig.json` or `tsconfig.json`?**
-
-Setting `compilerOptions.types` shuts out all other types not explicitly listed in the configuration. Using triple-slash references keeps the default TypeScript setting of accepting type information from the entire workspace, while also adding `svelte` and `vite/client` type information.
-
-**Why include `.vscode/extensions.json`?**
-
-Other templates indirectly recommend extensions via the README, but this file allows VS Code to prompt the user to install the recommended extension upon opening the project.
-
-**Why enable `allowJs` in the TS template?**
-
-While `allowJs: false` would indeed prevent the use of `.js` files in the project, it does not prevent the use of JavaScript syntax in `.svelte` files. In addition, it would force `checkJs: false`, bringing the worst of both worlds: not being able to guarantee the entire codebase is TypeScript, and also having worse typechecking for the existing JavaScript. In addition, there are valid use cases in which a mixed codebase may be relevant.
-
-**Why is HMR not preserving my local component state?**
-
-HMR state preservation comes with a number of gotchas! It has been disabled by default in both `svelte-hmr` and `@sveltejs/vite-plugin-svelte` due to its often surprising behavior. You can read the details [here](https://github.com/rixo/svelte-hmr#svelte-hmr).
-
-If you have state that's important to retain within a component, consider creating an external store which would not be replaced by HMR.
-
-```ts
-// store.ts
-// An extremely simple external store
-import { writable } from 'svelte/store'
-export default writable(0)
 ```
+src/
+├── lib/
+│   ├── data/
+│   │   ├── vocabulary/    # hsk1.json, hsk2.json, etc.
+│   │   ├── dialogues/     # hsk1_dialogues.json, etc.
+│   │   └── grammar/       # hsk1_grammar.json, etc.
+├── App.svelte            # Main application component
+├── main.ts              # Entry point
+└── app.css              # Global styles
+```
+
+## Getting Started
+
+### Local Development
+
+```bash
+# Clone the repository
+git clone https://github.com/volta-agent/laoshihao.git
+cd laoshihao
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+### Deployment
+
+The site is automatically deployed to GitHub Pages using the `gh-pages` branch. To manually deploy:
+
+```bash
+npm run build
+npx gh-pages -d dist -b gh-pages --dotfiles
+```
+
+## Content Structure
+
+### Vocabulary
+Each HSK level has a JSON file with:
+```json
+{
+  "hanzi": "你好",
+  "pinyin": "nǐ hǎo",
+  "english": "hello",
+  "pos": "interjection",
+  "hsk_level": 1,
+  "tags": ["greeting", "basic"]
+}
+```
+
+### Dialogues
+Interactive conversations with Chinese, pinyin, and English translations.
+
+### Grammar
+Grammar points with explanations, structures, and examples.
+
+## Roadmap
+
+- [x] Basic HSK 1 vocabulary (40 words)
+- [x] Dialogues for all HSK levels
+- [x] Grammar points for all HSK levels
+- [x] Responsive UI with Gruvbox theme
+- [x] Text-to-speech pronunciation
+- [x] GitHub Pages deployment
+- [ ] Complete HSK 1-5 vocabulary (3000+ words)
+- [ ] Quiz system with scoring
+- [ ] Progress tracking with localStorage
+- [ ] Spaced repetition flashcards
+- [ ] Audio recordings for dialogues
+- [ ] Mobile app with PWA support
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Add your content (vocabulary, dialogues, grammar)
+4. Submit a pull request
+
+## License
+
+MIT License - see LICENSE file for details
+
+## Acknowledgements
+
+- HSK (汉语水平考试) curriculum materials
+- Svelte team for the amazing framework
+- Vite for fast builds
+- GitHub for free hosting
