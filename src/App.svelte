@@ -1,9 +1,9 @@
 <script>
-  import hsk1 from './lib/data/vocabulary/hsk1.json';
-  import hsk2 from './lib/data/vocabulary/hsk2.json';
-  import hsk3 from './lib/data/vocabulary/hsk3.json';
-  import hsk4 from './lib/data/vocabulary/hsk4.json';
-  import hsk5 from './lib/data/vocabulary/hsk5.json';
+  import hsk1 from './lib/data/vocabulary/hsk1_complete.json';
+  import hsk2 from './lib/data/vocabulary/hsk2_complete.json';
+  import hsk3 from './lib/data/vocabulary/hsk3_complete.json';
+  import hsk4 from './lib/data/vocabulary/hsk4_complete.json';
+  import hsk5 from './lib/data/vocabulary/hsk5_complete.json';
   
   import hsk1Dialogues from './lib/data/dialogues/hsk1_dialogues.json';
   import hsk2Dialogues from './lib/data/dialogues/hsk2_dialogues.json';

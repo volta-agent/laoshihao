@@ -1,0 +1,973 @@
+[
+  {
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "english": "I, me",
+    "pos": "pronoun",
+    "tags": [
+      "pronoun"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "english": "you",
+    "pos": "pronoun",
+    "tags": [
+      "pronoun"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "他",
+    "pinyin": "tā",
+    "english": "he, him",
+    "pos": "pronoun",
+    "tags": [
+      "pronoun"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "她",
+    "pinyin": "tā",
+    "english": "she, her",
+    "pos": "pronoun",
+    "tags": [
+      "pronoun"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "爸爸",
+    "pinyin": "bà ba",
+    "english": "father",
+    "pos": "noun",
+    "tags": [
+      "family"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "妈妈",
+    "pinyin": "mā ma",
+    "english": "mother",
+    "pos": "noun",
+    "tags": [
+      "family"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "儿子",
+    "pinyin": "ér zi",
+    "english": "son",
+    "pos": "noun",
+    "tags": [
+      "family"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "女儿",
+    "pinyin": "nǚ ér",
+    "english": "daughter",
+    "pos": "noun",
+    "tags": [
+      "family"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "你好",
+    "pinyin": "nǐ hǎo",
+    "english": "hello",
+    "pos": "phrase",
+    "tags": [
+      "greeting"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "谢谢",
+    "pinyin": "xiè xie",
+    "english": "thank you",
+    "pos": "verb",
+    "tags": [
+      "politeness"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "再见",
+    "pinyin": "zài jiàn",
+    "english": "goodbye",
+    "pos": "phrase",
+    "tags": [
+      "greeting"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "对不起",
+    "pinyin": "duì bu qǐ",
+    "english": "sorry",
+    "pos": "phrase",
+    "tags": [
+      "politeness"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "不客气",
+    "pinyin": "bú kè qi",
+    "english": "you're welcome",
+    "pos": "phrase",
+    "tags": [
+      "politeness"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "人",
+    "pinyin": "rén",
+    "english": "person",
+    "pos": "noun",
+    "tags": [
+      "general"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "名字",
+    "pinyin": "míng zi",
+    "english": "name",
+    "pos": "noun",
+    "tags": [
+      "general"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "朋友",
+    "pinyin": "péng you",
+    "english": "friend",
+    "pos": "noun",
+    "tags": [
+      "person"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "老师",
+    "pinyin": "lǎo shī",
+    "english": "teacher",
+    "pos": "noun",
+    "tags": [
+      "person"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "学生",
+    "pinyin": "xué shēng",
+    "english": "student",
+    "pos": "noun",
+    "tags": [
+      "person"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "学校",
+    "pinyin": "xué xiào",
+    "english": "school",
+    "pos": "noun",
+    "tags": [
+      "place"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "english": "home, family",
+    "pos": "noun",
+    "tags": [
+      "place",
+      "family"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "english": "water",
+    "pos": "noun",
+    "tags": [
+      "drink"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "english": "tea",
+    "pos": "noun",
+    "tags": [
+      "drink"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "咖啡",
+    "pinyin": "kā fēi",
+    "english": "coffee",
+    "pos": "noun",
+    "tags": [
+      "drink"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "饭",
+    "pinyin": "fàn",
+    "english": "rice, meal",
+    "pos": "noun",
+    "tags": [
+      "food"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "english": "vegetable, dish",
+    "pos": "noun",
+    "tags": [
+      "food"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "english": "eat",
+    "pos": "verb",
+    "tags": [
+      "action"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "english": "drink",
+    "pos": "verb",
+    "tags": [
+      "action"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "一",
+    "pinyin": "yī",
+    "english": "one",
+    "pos": "numeral",
+    "tags": [
+      "number"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "二",
+    "pinyin": "èr",
+    "english": "two",
+    "pos": "numeral",
+    "tags": [
+      "number"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "sān",
+    "english": "three",
+    "pos": "numeral",
+    "tags": [
+      "number"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "四",
+    "pinyin": "sì",
+    "english": "four",
+    "pos": "numeral",
+    "tags": [
+      "number"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "english": "five",
+    "pos": "numeral",
+    "tags": [
+      "number"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "六",
+    "pinyin": "liù",
+    "english": "six",
+    "pos": "numeral",
+    "tags": [
+      "number"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "七",
+    "pinyin": "qī",
+    "english": "seven",
+    "pos": "numeral",
+    "tags": [
+      "number"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "八",
+    "pinyin": "bā",
+    "english": "eight",
+    "pos": "numeral",
+    "tags": [
+      "number"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "english": "nine",
+    "pos": "numeral",
+    "tags": [
+      "number"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "十",
+    "pinyin": "shí",
+    "english": "ten",
+    "pos": "numeral",
+    "tags": [
+      "number"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "今天",
+    "pinyin": "jīn tiān",
+    "english": "today",
+    "pos": "noun",
+    "tags": [
+      "time"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "明天",
+    "pinyin": "míng tiān",
+    "english": "tomorrow",
+    "pos": "noun",
+    "tags": [
+      "time"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "昨天",
+    "pinyin": "zuó tiān",
+    "english": "yesterday",
+    "pos": "noun",
+    "tags": [
+      "time"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "现在",
+    "pinyin": "xiàn zài",
+    "english": "now",
+    "pos": "noun",
+    "tags": [
+      "time"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "是",
+    "pinyin": "shì",
+    "english": "to be",
+    "pos": "verb",
+    "tags": [
+      "verb"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "english": "to have",
+    "pos": "verb",
+    "tags": [
+      "verb"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "在",
+    "pinyin": "zài",
+    "english": "to be at/in",
+    "pos": "verb",
+    "tags": [
+      "verb"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "去",
+    "pinyin": "qù",
+    "english": "to go",
+    "pos": "verb",
+    "tags": [
+      "verb"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "来",
+    "pinyin": "lái",
+    "english": "to come",
+    "pos": "verb",
+    "tags": [
+      "verb"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "english": "to look, watch",
+    "pos": "verb",
+    "tags": [
+      "verb"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "english": "to listen",
+    "pos": "verb",
+    "tags": [
+      "verb"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "说",
+    "pinyin": "shuō",
+    "english": "to speak",
+    "pos": "verb",
+    "tags": [
+      "verb"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "english": "good",
+    "pos": "adjective",
+    "tags": [
+      "description"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "大",
+    "pinyin": "dà",
+    "english": "big",
+    "pos": "adjective",
+    "tags": [
+      "description"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "english": "small",
+    "pos": "adjective",
+    "tags": [
+      "description"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "多",
+    "pinyin": "duō",
+    "english": "many, much",
+    "pos": "adjective",
+    "tags": [
+      "quantity"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "english": "few, little",
+    "pos": "adjective",
+    "tags": [
+      "quantity"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "新",
+    "pinyin": "xīn",
+    "english": "new",
+    "pos": "adjective",
+    "tags": [
+      "description"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "旧",
+    "pinyin": "jiù",
+    "english": "old",
+    "pos": "adjective",
+    "tags": [
+      "description"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "什么",
+    "pinyin": "shén me",
+    "english": "what",
+    "pos": "pronoun",
+    "tags": [
+      "question"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "english": "who",
+    "pos": "pronoun",
+    "tags": [
+      "question"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "哪里",
+    "pinyin": "nǎ lǐ",
+    "english": "where",
+    "pos": "pronoun",
+    "tags": [
+      "question"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "为什么",
+    "pinyin": "wèi shén me",
+    "english": "why",
+    "pos": "pronoun",
+    "tags": [
+      "question"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "怎么",
+    "pinyin": "zěn me",
+    "english": "how",
+    "pos": "pronoun",
+    "tags": [
+      "question"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "多少",
+    "pinyin": "duō shao",
+    "english": "how many/much",
+    "pos": "pronoun",
+    "tags": [
+      "question"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "english": "question particle",
+    "pos": "particle",
+    "tags": [
+      "grammar"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "的",
+    "pinyin": "de",
+    "english": "possessive particle",
+    "pos": "particle",
+    "tags": [
+      "grammar"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "了",
+    "pinyin": "le",
+    "english": "aspect particle",
+    "pos": "particle",
+    "tags": [
+      "grammar"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "english": "question particle",
+    "pos": "particle",
+    "tags": [
+      "grammar"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "english": "very",
+    "pos": "adverb",
+    "tags": [
+      "adverb"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "也",
+    "pinyin": "yě",
+    "english": "also",
+    "pos": "adverb",
+    "tags": [
+      "adverb"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "english": "all",
+    "pos": "adverb",
+    "tags": [
+      "adverb"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "不",
+    "pinyin": "bù",
+    "english": "not",
+    "pos": "adverb",
+    "tags": [
+      "negation"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "中国",
+    "pinyin": "zhōng guó",
+    "english": "China",
+    "pos": "noun",
+    "tags": [
+      "place"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "北京",
+    "pinyin": "běi jīng",
+    "english": "Beijing",
+    "pos": "noun",
+    "tags": [
+      "place"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "上海",
+    "pinyin": "shàng hǎi",
+    "english": "Shanghai",
+    "pos": "noun",
+    "tags": [
+      "place"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "书",
+    "pinyin": "shū",
+    "english": "book",
+    "pos": "noun",
+    "tags": [
+      "object"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "笔",
+    "pinyin": "bǐ",
+    "english": "pen",
+    "pos": "noun",
+    "tags": [
+      "object"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "纸",
+    "pinyin": "zhǐ",
+    "english": "paper",
+    "pos": "noun",
+    "tags": [
+      "object"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "电脑",
+    "pinyin": "diàn nǎo",
+    "english": "computer",
+    "pos": "noun",
+    "tags": [
+      "technology"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "手机",
+    "pinyin": "shǒu jī",
+    "english": "cell phone",
+    "pos": "noun",
+    "tags": [
+      "technology"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "桌子",
+    "pinyin": "zhuō zi",
+    "english": "table",
+    "pos": "noun",
+    "tags": [
+      "furniture"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "椅子",
+    "pinyin": "yǐ zi",
+    "english": "chair",
+    "pos": "noun",
+    "tags": [
+      "furniture"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "门",
+    "pinyin": "mén",
+    "english": "door",
+    "pos": "noun",
+    "tags": [
+      "object"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "窗",
+    "pinyin": "chuāng",
+    "english": "window",
+    "pos": "noun",
+    "tags": [
+      "object"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "红",
+    "pinyin": "hóng",
+    "english": "red",
+    "pos": "adjective",
+    "tags": [
+      "color"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "白",
+    "pinyin": "bái",
+    "english": "white",
+    "pos": "adjective",
+    "tags": [
+      "color"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "黑",
+    "pinyin": "hēi",
+    "english": "black",
+    "pos": "adjective",
+    "tags": [
+      "color"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "蓝",
+    "pinyin": "lán",
+    "english": "blue",
+    "pos": "adjective",
+    "tags": [
+      "color"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "绿",
+    "pinyin": "lǜ",
+    "english": "green",
+    "pos": "adjective",
+    "tags": [
+      "color"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "车",
+    "pinyin": "chē",
+    "english": "vehicle",
+    "pos": "noun",
+    "tags": [
+      "transport"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "汽车",
+    "pinyin": "qì chē",
+    "english": "car",
+    "pos": "noun",
+    "tags": [
+      "transport"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "自行车",
+    "pinyin": "zì xíng chē",
+    "english": "bicycle",
+    "pos": "noun",
+    "tags": [
+      "transport"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "飞机",
+    "pinyin": "fēi jī",
+    "english": "airplane",
+    "pos": "noun",
+    "tags": [
+      "transport"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "火车",
+    "pinyin": "huǒ chē",
+    "english": "train",
+    "pos": "noun",
+    "tags": [
+      "transport"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "个",
+    "pinyin": "gè",
+    "english": "general measure word",
+    "pos": "measure word",
+    "tags": [
+      "measure"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "本",
+    "pinyin": "běn",
+    "english": "measure word for books",
+    "pos": "measure word",
+    "tags": [
+      "measure"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "张",
+    "pinyin": "zhāng",
+    "english": "measure word for flat objects",
+    "pos": "measure word",
+    "tags": [
+      "measure"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "只",
+    "pinyin": "zhī",
+    "english": "measure word for animals",
+    "pos": "measure word",
+    "tags": [
+      "measure"
+    ],
+    "hsk_level": 1
+  },
+  {
+    "hanzi": "件",
+    "pinyin": "jiàn",
+    "english": "measure word for clothes, matters",
+    "pos": "measure word",
+    "tags": [
+      "measure"
+    ],
+    "hsk_level": 1
+  }
+]
